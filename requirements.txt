@@ -1,0 +1,10 @@
+keras
+cv2
+os
+numpy
+tensorflow
+matplotlib
+seaborn
+sklearn
+glob
+time
